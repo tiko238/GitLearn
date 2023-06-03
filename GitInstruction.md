@@ -47,3 +47,8 @@ git config - - global [user.email](http://user.email) “tikomirzoyan85@gmail.co
 git branch <имя новой ветки>
 ```
 ## Список Ветков
+Список веток в репозитории можно посмотреть с помощью команды
+```
+git branch  gggggggg
+```
+Текущая ветка будет отмечена звездочкой **\*master**

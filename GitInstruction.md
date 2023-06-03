@@ -29,3 +29,6 @@ git config - - global [user.email](http://user.email) “tikomirzoyan85@gmail.co
 
   ## 8. Git log 
    Это команда выводит на экран истории всех коммитов с их хеш-кодами.
+
+   ## 9. Git checkout
+   С помощью этой команды мы переходим от одного коммита к другому.

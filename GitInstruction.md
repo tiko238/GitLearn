@@ -14,3 +14,6 @@
 
 git config - - global [user.email](http://user.email) “tikomirzoyan85@gmail.com” 
 ```
+
+## 4. Git init 
+ Инициализация локального репозитория. Эту команду мы применяем чтобы  Git  начал работать в нашей папке

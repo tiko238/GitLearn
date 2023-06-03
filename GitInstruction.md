@@ -32,3 +32,6 @@ git config - - global [user.email](http://user.email) “tikomirzoyan85@gmail.co
 
    ## 9. Git checkout
    С помощью этой команды мы переходим от одного коммита к другому.
+
+   ## 10. Git diff
+   С помощью этой команды сможем увидеть наши изменения после фиксации.

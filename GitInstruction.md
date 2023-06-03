@@ -37,4 +37,4 @@ git config - - global [user.email](http://user.email) “tikomirzoyan85@gmail.co
    ## 10. Git diff
    С помощью этой команды сможем увидеть наши изменения после фиксации.
 
-   
+   ## 11 Игнорирование файлов

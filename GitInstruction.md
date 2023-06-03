@@ -46,3 +46,4 @@ git config - - global [user.email](http://user.email) “tikomirzoyan85@gmail.co
 ```
 git branch <имя новой ветки>
 ```
+## Список Ветков
